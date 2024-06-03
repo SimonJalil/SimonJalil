@@ -1,5 +1,6 @@
 # Hi, I'm Simón Jalil!  
 🎓 Electronic Engineer graduated from the University of San Juan 
+
 💼 Currently Data Analyst at Minera Andina del Sol  
 
 ## About Me  
