@@ -20,6 +20,6 @@ Hello! I'm passionate about technology with experience in data analysis and soft
 - **Mining Data Analysis:** Participated in data analysis projects to optimize mining operations, using tools like SQL Server and Power BI.
 
 ## Contact  
-Connect with me on [LinkedIn](linkedin.com/in/simonjalil)!
+Connect with me on [LinkedIn](https://www.linkedin.com/in/simonjalil/)!
 
 I'm excited to continue learning and growing in the world of technology! I'm always open to new opportunities and collaborations. Let's chat!
